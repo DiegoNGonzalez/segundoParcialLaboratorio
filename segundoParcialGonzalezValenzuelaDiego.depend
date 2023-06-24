@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1687615204 source:c:\users\diegu\onedrive\documentos\laboratorio1\segundoparcialgonzalezvalenzueladiego\main.cpp
+	<iostream>
+	<locale.h>
+	"funciones.h"
+
+1687615204 source:c:\users\diegu\onedrive\documentos\laboratorio1\segundoparcialgonzalezvalenzueladiego\funciones.cpp
+	<iostream>
+	<locale.h>
+	"funciones.h"
+
+1687615204 c:\users\diegu\onedrive\documentos\laboratorio1\segundoparcialgonzalezvalenzueladiego\funciones.h
+
